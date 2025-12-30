@@ -1,0 +1,49 @@
+{
+  "cookies": {
+    "appmsglist_action_3892834343": "card",
+    "ua_id": "",
+    "_clck": "",
+    "mm_lang": "zh_CN",
+    "wxuin": "",
+    "poc_sid": "",
+    "uuid": "",
+    "rand_info": "",
+    "slave_bizuin": "3892834343",
+    "data_bizuin": "3892834343",
+    "bizuin": "3892834343",
+    "data_ticket": "",
+    "slave_sid": "",
+    "slave_user": "",
+    "xid": "",
+    "_clsk": "17pgjf3|1763618581067|1|1|mp.weixin.qq.com/weheat-agent/payload/record"
+  },
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "zh-CN,zh;q=0.9,en;q=0.8",
+    "dnt": "1",
+    "priority": "u=1, i",
+    "referer": "https://mp.weixin.qq.com/",
+    "sec-ch-ua": "\"Chromium\";v=\"142\", \"Microsoft Edge\";v=\"142\", \"Not_A Brand\";v=\"99\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "same-origin",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0",
+    "x-requested-with": "XMLHttpRequest"
+  },
+  "params": {
+    "sub": "list",
+    "search_field": "null",
+    "query": "",
+    "fakeid": "Mzk0NzcwMDg5MQ==",
+    "type": "101_1",
+    "free_publish_type": "1",
+    "sub_action": "list_ex",
+    "fingerprint": "44dd30894e4991d606f53d6d73dacf83",
+    "token": "1549135337",
+    "lang": "zh_CN",
+    "f": "json",
+    "ajax": "1"
+  }
+}
